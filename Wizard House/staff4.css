@@ -1,0 +1,755 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background:#FFB6A9;
+    width:100%;
+    height:100vh;
+
+}
+.logo{
+    position:absolute;
+    height:100px;
+}
+.logo1{
+    position:absolute;
+    margin-left:400px;
+    height:150px;
+}
+.staffimg{
+    position: absolute;
+    left: 64.69%;
+    width: 30%;
+}
+.back{
+    position: absolute;
+    width:1028px;
+    height:931px;
+    left:206px;
+    top:47px;
+}
+.back1{
+    position: absolute;
+    left:1.91%;
+    right:1.81%;
+    top:100px;
+    bottom:2.31%;
+
+    
+    background: #9C1801;
+    border-radius: 29px;
+}
+.h2{
+    position: absolute;
+    left: 12.65%;
+    bottom: 71.64%;
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-size: 64px;
+    line-height: 82px;
+    color: #DCDCDC;
+}
+.s{
+    position: absolute;
+    left: 9.24%;
+    right: 83.66%;
+    top: 36.52%;
+    bottom: 60.15%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: 0.05em;
+    color: #DCDCDC;
+}
+.sa{
+position: absolute;
+left: 34.73%;
+right: 59.34%;
+top: 36.52%;
+bottom: 60.15%;
+
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+}
+.g{
+position: absolute;
+left: 9.24%;
+right: 84.24%;
+top: 42.96%;
+bottom: 53.71%;
+
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.ga{
+position: absolute;
+left: 34.73%;
+right: 60.89%;
+top: 42.96%;
+bottom: 53.71%;
+
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+
+}
+.h{
+position: absolute;
+left: 9.24%;
+right: 85.31%;
+top: 49.41%;
+bottom: 47.26%;
+
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.ha{
+position: absolute;
+left: 34.73%;
+right: 55.45%;
+top: 49.41%;
+bottom: 47.26%;
+
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.d{
+position: absolute;
+left: 9.24%;
+right: 87.45%;
+top: 55.85%;
+bottom: 40.82%;
+
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC
+
+}
+.da{
+position: absolute;
+left: 34.73%;
+right: 61.87%;
+top: 55.85%;
+bottom: 40.82%;
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+text-transform: capitalize;
+
+color: #DCDCDC;
+
+}
+.a{
+position: absolute;
+left: 9.24%;
+right: 82.59%;
+top: 62.3%;
+bottom: 34.37%;
+
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.aa{
+position: absolute;
+left: 34.73%;
+right: 56.03%;
+top: 62.3%;
+bottom: 34.37%;
+
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.e{
+position: absolute;
+left: 9.24%;
+right: 80.93%;
+top: 68.74%;
+bottom: 27.93%;
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.ea{
+position: absolute;
+left: 34.73%;
+right: 61.38%;
+top: 68.74%;
+bottom: 27.93%;
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.h1{
+    position: absolute;
+    left: 9.24%;
+    right: 80.35%;
+    top: 75.19%;
+    bottom: 21.48%;
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    
+    
+}
+.h1a{
+    position: absolute;
+    left: 34.73%;
+    right: 59.73%;
+    top: 75.19%;
+    bottom: 21.48%;
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    
+
+}
+.w{
+position: absolute;
+left: 9.24%;
+right: 85.89%;
+top: 81.63%;
+bottom: 15.04%;
+
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.wa{
+position: absolute;
+left: 34.73%;
+right: 61.87%;
+top: 81.63%;
+bottom: 15.04%;
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+text-transform: capitalize;
+
+color: #DCDCDC;
+
+}
+.p{
+position: absolute;
+left: 9.24%;
+right: 82.59%;
+top: 88.08%;
+bottom: 8.59%;
+
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+}
+.pa{
+    position: absolute;
+    left: 34.73%;
+    right: 61.87%;
+    top: 88.08%;
+    bottom: 8.59%;
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    
+    color: #DCDCDC;
+}
+@media only screen and (max-width:500px)
+{
+    body{
+        background:pink;
+        width:100%;
+        height:100vh;
+    }
+    .back{
+        position: absolute;
+        height:931px;
+        left:0%;
+        top:0%;
+        width: 500px;
+        height: 800px;
+
+    }
+    .back1{
+        position: absolute;
+        background: #9C1801;
+        border-radius: 29px;
+        left: 4%;
+        right: 3%;
+        top: 10%;
+        bottom: 3%;
+    }
+    .staffimg{
+        left: 35.65%;
+        right: 33.33%;
+        top: 20.79%;
+        bottom: 64.09%;
+    }
+    .logo{
+        width: 137px;
+        height: 40px;
+        left: 17.66px;
+        top: 24px;
+    }
+    .h2{
+        position: absolute;
+        left: 20.65%;
+        bottom: 71.64%;
+        font-family: 'Pirata One';
+        font-style: normal;
+        font-size: 45px;
+        line-height: 170px;
+        color: #DCDCDC;
+    }
+    .logo1{
+        position:absolute;
+        margin-left:170px;
+        height:100px;
+    }
+    .s{
+        position: absolute;
+        left: 9.24%;
+        right: 83.66%;
+        top: 43.52%;
+        bottom: 60.15%;
+        
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 31px;
+        letter-spacing: 0.05em;
+        color: #DCDCDC;
+    }
+    .sa{
+    position: absolute;
+    left: 46.88%; 
+    right: 25.1%;
+    top: 43.54%;
+    bottom: 47.21%;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    
+    }
+    .g{
+    position: absolute;
+    left: 9.24%;
+    right: 84.24%;
+    top: 48.96%;
+    bottom: 53.71%;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    }
+    .ga{
+    position: absolute;
+    left: 46.73%;
+    right: 60.89%;
+    top: 48.96%;
+    bottom: 53.71%;
+    
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    
+    
+    }
+    .h{
+    position: absolute;
+    left: 9.24%;
+    right: 85.31%;
+    top: 54.41%;
+    bottom: 47.26%;
+    
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    }
+    .ha{
+    position: absolute;
+    left: 46.73%;
+    right: 55.45%;
+    top: 54.41%;
+    bottom: 47.26%;
+    
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    }
+    .d{
+    position: absolute;
+    left: 9.24%;
+    right: 87.45%;
+    top: 60.85%;
+    bottom: 40.82%;
+    
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC
+    
+    }
+    .da{
+    position: absolute;
+    left: 46.73%;
+    right: 61.87%;
+    top: 60.85%;
+    bottom: 40.82%;
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    
+    color: #DCDCDC;
+    
+    }
+    .a{
+    position: absolute;
+    left: 9.24%;
+    right: 82.59%;
+    top: 66.3%;
+    bottom: 34.37%;
+    
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    }
+    .aa{
+    position: absolute;
+    left: 46.73%;
+    right: 56.03%;
+    top: 66.3%;
+    bottom: 34.37%;
+    
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    }
+    .e{
+    position: absolute;
+    left: 9.24%;
+    right: 80.93%;
+    top: 72.74%;
+    bottom: 27.93%;
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    }
+    .ea{
+    position: absolute;
+    left: 46.73%;
+    right: 61.38%;
+    top: 72.74%;
+    bottom: 27.93%;
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    }
+    .h1{
+        position: absolute;
+        left: 9.24%;
+        right: 80.35%;
+        top: 78.19%;
+        bottom: 21.48%;
+        
+        font-family: 'Pirata One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 31px;
+        
+        letter-spacing: 0.05em;
+        
+        color: #DCDCDC;
+        
+        
+    }
+    .h1a{
+        position: absolute;
+        left: 46.73%;
+        right: 59.73%;
+        top: 78.19%;
+        bottom: 21.48%;
+        
+        font-family: 'Pirata One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 31px;
+        
+        letter-spacing: 0.05em;
+        
+        color: #DCDCDC;
+        
+    
+    }
+    .w{
+        position: absolute;
+        left: 9.24%;
+        right: 85.89%;
+        top: 84.63%;
+        bottom: 15.04%;
+        
+        
+        font-family: 'Pirata One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 31px;
+        
+        letter-spacing: 0.05em;
+        
+        color: #DCDCDC;
+        }
+        .wa{
+        position: absolute;
+        left: 46.73%;
+        right: 61.87%;
+        top: 84.63%;
+        bottom: 15.04%;
+        
+        font-family: 'Pirata One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 31px;
+        
+        letter-spacing: 0.05em;
+        text-transform: capitalize;
+        
+        color: #DCDCDC;
+        
+        }
+    .p{
+    position: absolute;
+    left: 9.24%;
+    right: 82.59%;
+    top: 90.08%;
+    bottom: 8.59%;
+    
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    
+    }
+    .pa{
+        position: absolute;
+        left: 46.73%;
+        right: 61.87%;
+        top: 90.08%;
+        bottom: 8.59%;
+        
+        font-family: 'Pirata One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 31px;
+        
+        letter-spacing: 0.05em;
+        text-transform: capitalize;
+        
+        color: #DCDCDC;
+    }
+    
+
+
+}
